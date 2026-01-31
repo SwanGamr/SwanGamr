@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SwanGamr
-- 👀 I’m interested in solo game ai and adaptive ai learning
+- 👀 I’m interested in game ai and adaptive ai learning
 - 🌱 I’m currently learning desktop support
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he
-- ⚡ Fun fact: I like puns
+- ⚡ Fun fact: I like puns, even if they're bad.
 
 <!---
 SwanGamr/SwanGamr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
